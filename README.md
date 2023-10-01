@@ -28,8 +28,8 @@ Here are some of the key bindings included in this configuration:
 - <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>: Launch browser
 - <kbd>Mod</kbd> + <kbd>D</kbd>: Launch application launcher
 - <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>: Exit i3
-- <kbd>Mod</kbd> + <kbd>1-9</kbd>: Switch to workspace 1-9
-- <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>1-9</kbd>: Move focused window to workspace 1-9
+- <kbd>Mod</kbd> + <kbd>1-5</kbd>/<kbd>6-0</kbd>: Switch to workspace 1-5
+- <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>1-5</kbd>/<kbd>6-0</kbd>: Move focused window to workspace 1-5
 - ...
 
 Customize key bindings and configuration options by editing the `~/.config/i3/config` file.
