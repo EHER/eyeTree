@@ -25,6 +25,7 @@ Follow these steps to set up the i3 configuration on your system:
 Here are some of the key bindings included in this configuration:
 
 - <kbd>Mod</kbd> + <kbd>Enter</kbd>: Launch terminal
+- <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>: Launch browser
 - <kbd>Mod</kbd> + <kbd>D</kbd>: Launch application launcher
 - <kbd>Mod</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>: Exit i3
 - <kbd>Mod</kbd> + <kbd>1-9</kbd>: Switch to workspace 1-9
